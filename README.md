@@ -2,6 +2,6 @@
 
 <td style="text-align:center;"> 
 <h1>Tracy Caruso</h1>
-  [![Website](https://ibb.co/tYWYJkK)](http://localhost:8000/)
+  [![Blig](https://ibb.co/tYWYJkK)](http://localhost:8000/)
 </td>
 </table> 
