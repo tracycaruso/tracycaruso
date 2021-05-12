@@ -1,7 +1,1 @@
-<table style= "margin-left:auto; margin-right:auto; width:100%">
-
-<td style="text-align:center;"> 
-<h1>Tracy Caruso</h1>
-  [![Blig](https://ibb.co/tYWYJkK)](http://localhost:8000/)
-</td>
-</table> 
+  ![Blog](https://i.ibb.co/RQVQDZb/blog.png)
