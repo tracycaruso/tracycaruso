@@ -1,4 +1,5 @@
-<table
+
+<!--<table
   style="margin-left:auto; margin-right:auto; width:100%; background:black; color:white; font-family: Verdana, Geneva, Tahoma, sans-serif; line-height: 1.6; font-size: 13px;">
     <tr>
       <td>
@@ -40,4 +41,6 @@
       <p><b>Knights of Logic</b><br/>Using propostional logic</p>
     </td>
     </tr>
-</table>
+</table>-->
+
+Tracy Caruso
