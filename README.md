@@ -9,7 +9,7 @@
       </td>
       <td>
         <br/>
-        <img src="https://i.ibb.co/YtpJGdY/2.png" alt="2" border="0">
+        <img src="https://i.ibb.co/QHPNX1K/4.png" alt="4" border="0">
         <hr />
         <p><b>Traffic</b><br/>Minimizing traffic using search</p>
       </td>
@@ -29,13 +29,13 @@
     </td>
     <td>
       <br/>
-      <img src="https://i.ibb.co/tsCkTWV/5.png" alt="5" border="0">
+      <img src="https://i.ibb.co/YtpJGdY/2.png" alt="2" border="0">
       <hr />
       <p><b>Breadth First Search</b><br/>Six degrees of separation</p>
     </td>
     <td>
       <br/>
-      <img src="https://i.ibb.co/QHPNX1K/4.png" alt="4" border="0">
+      <img src="https://i.ibb.co/tsCkTWV/5.png" alt="5" border="0">
       <hr />
       <p><b>Knights of Logic</b><br/>Using propostional logic</p>
     </td>
