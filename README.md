@@ -42,8 +42,6 @@
     </tr>
 </table>-->
 
-Tracy Caruso
-
 ![1](https://i.ibb.co/3NjshQk/2.png")
 ![2](https://i.ibb.co/LQHkbRW/1.png)
 
