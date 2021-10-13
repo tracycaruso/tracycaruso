@@ -1,4 +1,4 @@
-<img width="848" alt="Screen Shot 2021-09-01 at 8 46 39 AM" src="https://user-images.githubusercontent.com/6024941/131693074-ab505887-587d-444f-b1bb-2eca2685f9ff.png">
+<!-- <img width="848" alt="Screen Shot 2021-09-01 at 8 46 39 AM" src="https://user-images.githubusercontent.com/6024941/131693074-ab505887-587d-444f-b1bb-2eca2685f9ff.png"> -->
 
 <!-- 
 <map name="image-map">
