@@ -1,1 +1,1 @@
-![megas](https://user-images.githubusercontent.com/6024941/151466812-d9fd3ebc-f309-4bdd-b041-2678bf379c3f.png)
+![TXI-ProfileImage](https://user-images.githubusercontent.com/6024941/197265374-2a75e835-b312-4405-a3d9-1cd94179700a.jpg)
